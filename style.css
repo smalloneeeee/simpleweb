@@ -1,6 +1,10 @@
 /* CSS 選擇器 */
+
 /* 標籤名稱選擇器 */
-body{background-color:darkgrey;text-align: center}
+body{
+	background-color:darkgrey;
+	text-align: center
+}
 
 /* Class 選擇器 */
 .title{
